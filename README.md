@@ -1,6 +1,6 @@
 # PrivateCloud
 
-*What is PrivateCloud?*
+**What is PrivateCloud?**
 
 simple, a GUI to upload files private to a server where its encrypted and you can share the file through a hash
 
